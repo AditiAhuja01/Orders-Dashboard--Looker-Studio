@@ -1,4 +1,4 @@
-# Orders-Dashboard-Looker-Studio
+# Orders-Dashboard-Looker Studio
 ## Overview:
 This dashboard offers a comprehensive overview of order performance, analyzing key metrics, customer segments, geographical distribution, and product trends. It provides actionable insights to inform sales and business strategies.
 

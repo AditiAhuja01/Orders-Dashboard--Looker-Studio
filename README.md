@@ -10,9 +10,9 @@ This dashboard offers a comprehensive overview of order performance, analyzing k
 * **Top Product Category:** Office Supplies (60.3%)
 
 ## Dashboard Components:
-* Order Trends: Visualizes order volume over time (year and month).
-* Customer Analysis: Displays customer segmentation and geographical distribution.
-* Product Performance: Shows product category distribution and performance.
+* **Order Trends:** Visualizes order volume over time (year and month).
+* **Customer Analysis:** Displays customer segmentation and geographical distribution.
+* **Product Performance:** Shows product category distribution and performance.
 
  ## Conclusion:
 This dashboard offers a comprehensive overview of order performance. Key metrics and visualizations highlight sales trends, customer behavior, and product popularity. Deeper analysis can uncover growth opportunities and inform strategic decisions.
